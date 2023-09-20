@@ -51,7 +51,7 @@ const nameList = [
 { 'id': '47', 'term' : 'Code-driven testing', 'desc' : 'Code-driven testing refers to the automated testing wherein we develop code to test it and ensure that it functions properly.', 'ref': 'Mulder, J author. 2021, Enterprise DevOps for Architects, 1st edition., Packt Publishing, Accessed: 19 September 2023'},
 { 'id': '48', 'term' : 'Unit testing', 'desc' : 'Unit testing refers to the kind of automated testing where isolated codes and individual functions get tested.', 'ref': 'Mulder, J author. 2021, Enterprise DevOps for Architects, 1st edition., Packt Publishing, Accessed: 19 September 2023'},
 { 'id': '49', 'term' : 'Integration testing', 'desc' : 'Integration testing refers to the kind of automated testing where the whole microservice gets tested.', 'ref': 'Mulder, J author. 2021, Enterprise DevOps for Architects, 1st edition., Packt Publishing, Accessed: 19 September 2023'},
-{ 'id': '40', 'term' : 'End-to-end testing', 'desc' : 'End-to-end testing refers to the kind of automated testing where groups of microservices and/or the entire application along with the front-end gets tested.', 'ref': 'Mulder, J author. 2021, Enterprise DevOps for Architects, 1st edition., Packt Publishing, Accessed: 19 September 2023'},
+{ 'id': '50', 'term' : 'End-to-end testing', 'desc' : 'End-to-end testing refers to the kind of automated testing where groups of microservices and/or the entire application along with the front-end gets tested.', 'ref': 'Mulder, J author. 2021, Enterprise DevOps for Architects, 1st edition., Packt Publishing, Accessed: 19 September 2023'},
 
 ];
 
